@@ -1,5 +1,5 @@
 # s2_AaronMagat
-Summative #2
+
 
 #include <iostream>
 #include <string>
